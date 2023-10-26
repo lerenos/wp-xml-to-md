@@ -6,7 +6,7 @@
 
 3. Rename it to wp.xml
 
-4. Edit the script files. Edit ``transform-selected-posts.js```if you want to filter the posts by id
+4. Edit the script files. Edit ```transform-selected-posts.js``` if you want to filter the posts by id
 
 5. run ```node transform.js``` or ```node transform-selected-posts.js``` on your console
 
